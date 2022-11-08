@@ -1,5 +1,5 @@
 Flask
-Flask-RESTful
-jinja
-flask_sqlalchemy
-PyMySQL
+# Flask-RESTful
+# jinja
+# flask_sqlalchemy
+# PyMySQL

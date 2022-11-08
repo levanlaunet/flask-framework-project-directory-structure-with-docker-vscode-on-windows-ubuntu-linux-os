@@ -1,1 +1,5 @@
 Flask
+Flask-RESTful
+jinja
+flask_sqlalchemy
+PyMySQL
